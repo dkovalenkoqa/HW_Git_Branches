@@ -1,0 +1,9 @@
+1. General information (for example, a link and log in details to the website).
+2. Name of the section (subsection).
+3. List of checks (with the required level of detail)ю
+4. Type of verification (positive, negative).
+5. Test data.
+6. The expected behavior of the system.
+7. Information about the test environment: device, browser, screen resolution, etc.
+8. Check result (passed, failed, not executed).
+9. Bug number or a link to it in Jira (if the test is not passed).
